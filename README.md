@@ -13,14 +13,14 @@ When the above steps are completed and the challenge's code is updated (for asso
 
 ## Mock-Up
 
-![alt text](https://github.com/stephenrossetti/SQL-Challenge-Employee-Tracker/blob/main/assets/Mockup1.png)
-![alt text](https://github.com/stephenrossetti/SQL-Challenge-Employee-Tracker/blob/main/assets/Mockup2.png)
-![alt text](https://github.com/stephenrossetti/SQL-Challenge-Employee-Tracker/blob/main/assets/Mockup3.png)
-![alt text](https://github.com/stephenrossetti/SQL-Challenge-Employee-Tracker/blob/main/assets/Mockup4.png)
-![alt text](https://github.com/stephenrossetti/SQL-Challenge-Employee-Tracker/blob/main/assets/Mockup5.png)
-![alt text](https://github.com/stephenrossetti/SQL-Challenge-Employee-Tracker/blob/main/assets/Mockup6.png)
-![alt text](https://github.com/stephenrossetti/SQL-Challenge-Employee-Tracker/blob/main/assets/Mockup7.png)
-![alt text](https://github.com/stephenrossetti/SQL-Challenge-Employee-Tracker/blob/main/assets/Mockup8.png)
+![alt text](https://github.com/stephenrossetti/Rossetti-s-Object-Relational-Mapping-ORM-E-Commerce-Back-End/blob/main/assets/images/Mockup1.png)
+![alt text](https://github.com/stephenrossetti/Rossetti-s-Object-Relational-Mapping-ORM-E-Commerce-Back-End/blob/main/assets/images/Mockup2.png)
+![alt text](https://github.com/stephenrossetti/Rossetti-s-Object-Relational-Mapping-ORM-E-Commerce-Back-End/blob/main/assets/images/Mockup3.png)
+![alt text](https://github.com/stephenrossetti/Rossetti-s-Object-Relational-Mapping-ORM-E-Commerce-Back-End/blob/main/assets/images/Mockup4.png)
+![alt text](https://github.com/stephenrossetti/Rossetti-s-Object-Relational-Mapping-ORM-E-Commerce-Back-End/blob/main/assets/images/Mockup5.png)
+![alt text](https://github.com/stephenrossetti/Rossetti-s-Object-Relational-Mapping-ORM-E-Commerce-Back-End/blob/main/assets/images/Mockup6.png)
+![alt text](https://github.com/stephenrossetti/Rossetti-s-Object-Relational-Mapping-ORM-E-Commerce-Back-End/blob/main/assets/images/Mockup7.png)
+![alt text](https://github.com/stephenrossetti/Rossetti-s-Object-Relational-Mapping-ORM-E-Commerce-Back-End/blob/main/assets/images/Mockup8.png)
 
 ## Usage
 
