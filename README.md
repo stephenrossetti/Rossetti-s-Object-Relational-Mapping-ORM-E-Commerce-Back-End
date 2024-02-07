@@ -30,4 +30,6 @@ To review the code, open the GitHub repository here: https://github.com/stephenr
 
 ## Credits
 
-Utilized Module-13-Challenge starter code from fantastic-umbrella repository (https://github.com/coding-boot-camp/fantastic-umbrella).Utilized Module-13 activities for examples of code.
+Utilized Module-13-Challenge starter code from fantastic-umbrella repository (https://github.com/coding-boot-camp/fantastic-umbrella). 
+
+Utilized Module-13 activities for examples of code.

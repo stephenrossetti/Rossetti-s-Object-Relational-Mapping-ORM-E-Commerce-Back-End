@@ -4,6 +4,8 @@ const sequelize = require('../config/connection.js');
 
 class Category extends Model { }
 
+// define the Category class using challenge requirements
+
 Category.init(
   {
     // define columns

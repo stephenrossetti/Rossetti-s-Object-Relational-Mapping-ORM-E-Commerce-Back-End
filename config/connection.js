@@ -1,3 +1,6 @@
+// require dotenv to utilize .env file to secure sensitive data
+// require sequelize to use Sequelize to help interact with data
+
 require('dotenv').config();
 
 const Sequelize = require('sequelize');

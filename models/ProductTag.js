@@ -4,6 +4,8 @@ const sequelize = require('../config/connection');
 
 class ProductTag extends Model {}
 
+// define the ProductTag class using challenge requirements
+
 ProductTag.init(
   {
     // define columns

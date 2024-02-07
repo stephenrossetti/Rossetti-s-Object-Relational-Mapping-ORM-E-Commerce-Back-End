@@ -4,6 +4,8 @@ const sequelize = require('../config/connection.js');
 
 class Tag extends Model {}
 
+// define the Tag class using challenge requirements
+
 Tag.init(
   {
     // define columns
